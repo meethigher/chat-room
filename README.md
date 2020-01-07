@@ -22,7 +22,7 @@
 
   ![聊天功能](https://meethigher.top/blog/2020/01/07/chat-room/客户端之间通讯.png)
 
-* 用户退出提示
+* 用户退出提示 
 
 ![用户退出提示](https://meethigher.top/blog/2020/01/07/chat-room/用户退出通知.png)
 
