@@ -20,13 +20,12 @@
 
 * 聊天功能
 
-  ![聊天功能](https://meethigher.top/blog/2020/01/07/chat-room/%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B9%8B%E9%97%B4%E9%80%9A%E8%AE%AF.png)
+  ![聊天功能](https://meethigher.top/blog/2020/01/07/chat-room/客户端之间通讯.png)
 
 * 用户退出提示
 
-![用户退出提示](https://meethigher.top/blog/2020/01/07/chat-room/%E7%94%A8%E6%88%B7%E9%80%80%E5%87%BA%E9%80%9A%E7%9F%A5.png)
+![用户退出提示](https://meethigher.top/blog/2020/01/07/chat-room/用户退出通知.png)
 
 ## 具体过程
 
 [记录实现socket聊天室的过程](https://meethigher.top/blog/2020/01/07/chat-room/)
-
